@@ -22,5 +22,4 @@
 
   *Expected output:*
 
-  "Hello world!"<br/>"Hello world!"<br/>"Hello world!"<br/>"!dlrow olleH"
-
+  "Hello world!"<br/>"Hello world!"<br/>"Hello world!"<br/>"!dlrow olleH"<br/>"!dlrow olleH"
