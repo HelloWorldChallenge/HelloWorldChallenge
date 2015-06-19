@@ -8,7 +8,7 @@
    
    "Hello world!"
    
-    * Challenge 1
+    * Challenge 2
 
    Print "Hello world!\nHello world!" to console.
    
